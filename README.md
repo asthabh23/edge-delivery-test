@@ -1,9 +1,6 @@
-# Macquarie Help Centre
-Macquarie Bank Help Centre site on Edge Delivery Services.
-
 ## Environments
-- Preview: https://main--macquarie-help-centre--hlxsites.hlx.page/
-- Live: https://main--macquarie-help-centre--hlxsites.hlx.live/
+- Preview: https://main--edge-delivery-test--asthabh23.hlx.page/
+- Live: https://main--edge-delivery-test--asthabh23.hlx.live/
 
 ## Installation
 
